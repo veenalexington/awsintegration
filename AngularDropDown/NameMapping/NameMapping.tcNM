@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="6" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
+		<Children>
+			<Child Name="Sys" Key="{3FE13EB2-CEFB-46B2-83B4-08C0C8F787B6}" ParallelWalk="True">
+				<Properties>
+					<Property Name="Name">
+						<Value PropertyType="0" Value="Sys" Type="5" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{91640845-6EC4-4294-A92B-AA7C4880A804}" ParallelWalk="True">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value PropertyType="0" Value="Browser" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageSelectAngularMaterial" Key="{1605E0C6-295A-48E7-8166-AC524AA24B8E}" ParallelWalk="True">
+								<Image FileName="-1685726620" Left="0" Top="128" Right="1920" Bottom="1030" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://material.angular.io/components/select/overview" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panel" Key="{B308C72C-7FD4-480B-A355-1A8AE34C1117}" ParallelWalk="True">
+										<Image FileName="-1685726620" Left="0" Top="-302" Right="1899" Bottom="10854" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panel" Key="{6B202020-8EFF-4169-8669-088FF0634662}" ParallelWalk="True">
+												<Image FileName="-1685726620" Left="0" Top="-202" Right="1899" Bottom="10854" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panel" Key="{E3E40522-31E4-4FFA-86BA-12BAFC0DF469}" ParallelWalk="True">
+														<Image FileName="-1685726620" Left="364" Top="-177" Right="1837" Bottom="10704" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panel" Key="{26A0FD43-B2A9-48A8-B710-7604A04E5D46}" ParallelWalk="True">
+																<Image FileName="-1685726620" Left="364" Top="-85" Right="1837" Bottom="10703" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panel" Key="{821A162D-4761-455D-BD59-2A9747B29B36}" ParallelWalk="True">
+																		<Image FileName="-1685726620" Left="364" Top="-85" Right="1557" Bottom="10703" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panel" Key="{B85DDABF-46C8-448E-9BC5-7F68D1A568F0}" ParallelWalk="True">
+																				<Image FileName="-1685726620" Left="364" Top="296" Right="1557" Bottom="956" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="0" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="panel" Key="{2F3C6B25-F604-4F33-9F16-C3881D2BEB61}" ParallelWalk="True">
+																						<Image FileName="-1685726620" Left="364" Top="351" Right="1557" Bottom="901" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Panel" Type="5" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="panel" Key="{5226A508-6F78-490A-8254-31D00DB5B31B}" ParallelWalk="True">
+																								<Image FileName="-1685726620" Left="365" Top="422" Right="1555" Bottom="900" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value PropertyType="0" Value="Panel" Type="5" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value PropertyType="0" Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="panel" Key="{D3DAA694-95B1-4292-96CE-460A5B48BD5C}" ParallelWalk="True">
+																										<Image FileName="-1685726620" Left="403" Top="560" Right="658" Bottom="661" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value PropertyType="0" Value="Panel" Type="5" />
+																											</Property>
+																											<Property Name="ObjectIdentifier">
+																												<Value PropertyType="0" Value="0" Type="0" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="panel" Key="{B08466B7-B9B6-46AF-A668-22BD46E5D217}" ParallelWalk="True">
+																												<Image FileName="-1685726620" Left="403" Top="560" Right="658" Bottom="634" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Panel" Type="5" />
+																													</Property>
+																													<Property Name="ObjectIdentifier">
+																														<Value PropertyType="0" Value="0" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="panel" Key="{3EA93BF6-7A56-4CF7-BE19-40DDFC24D8C7}" ParallelWalk="True">
+																														<Image FileName="-1685726620" Left="418" Top="575" Right="643" Bottom="634" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value PropertyType="0" Value="Panel" Type="5" />
+																															</Property>
+																															<Property Name="contentText">
+																																<Value PropertyType="0" Value="Favorite food" Type="5" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="panel" Key="{C2E5C656-18CE-4E77-8B6C-00F95E7663DA}" ParallelWalk="True">
+																																<Image FileName="-1685726620" Left="418" Top="597" Right="643" Bottom="619" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value PropertyType="0" Value="Panel" Type="5" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="panel" Key="{1DE3E1F5-5EB8-4D51-B8BC-3E7D696D2CC3}" ParallelWalk="True">
+																																		<Image FileName="-1685726620" Left="418" Top="597" Right="620" Bottom="619" />
+																																		<Properties>
+																																			<Property Name="ObjectType">
+																																				<Value PropertyType="0" Value="Panel" Type="5" />
+																																			</Property>
+																																			<Property Name="ObjectIdentifier">
+																																				<Value PropertyType="0" Value="0" Type="0" />
+																																			</Property>
+																																		</Properties>
+																																		<Children>
+																																			<Child Name="textnode" Key="{0C2BF198-A417-4AAE-93A5-12DEC9D34F84}" ParallelWalk="True">
+																																				<Image FileName="-1685726620" Left="418" Top="597" Right="620" Bottom="619" />
+																																				<TypeInfo Item0="{307E2D55-E227-4D58-A896-613970F76BDE}" />
+																																				<Properties>
+																																					<Property Name="ObjectType">
+																																						<Value PropertyType="0" Value="TextNode" Type="5" />
+																																					</Property>
+																																				</Properties>
+																																			</Child>
+																																		</Children>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="selectCars" Key="{38DA6602-2EB9-41F2-A716-6CEF2A53ED5D}" ExtendedFind="True" ParallelWalk="True">
+																										<Image FileName="-2140890022" Left="418" Top="778" Right="643" Bottom="820" />
+																										<TypeInfo Item0="{C07BF248-3E7C-4E95-A3C4-851D14045F83}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value PropertyType="0" Value="Select" Type="5" />
+																											</Property>
+																											<Property Name="idStr">
+																												<Value PropertyType="0" Value="mat-input-0" Type="5" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="textnode" Key="{4DFA686E-10D5-4106-84F8-6A0FE9520B53}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-276538496" Left="418" Top="638" Right="643" Bottom="698" />
+										<TypeInfo Item0="{307E2D55-E227-4D58-A896-613970F76BDE}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="TextNode" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="Pizza" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{91640845-6EC4-4294-A92B-AA7C4880A804}">
+			<Child Name="pageSelectAngularMaterial" Owner="{1605E0C6-295A-48E7-8166-AC524AA24B8E}">
+				<Child Name="textnode" Owner="{0C2BF198-A417-4AAE-93A5-12DEC9D34F84}" />
+				<Child Name="textnode2" Owner="{4DFA686E-10D5-4106-84F8-6A0FE9520B53}" />
+				<Child Name="selectCars" Owner="{38DA6602-2EB9-41F2-A716-6CEF2A53ED5D}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

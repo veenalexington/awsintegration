@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{1B30C2AA-AD95-45EA-88F0-8D8341850BEB}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44013.2334375" objectName="Aliases.browser.pageSelectAngularMaterial.textnode" objectLeft="418" objectTop="597" objectRight="620" objectBottom="619" clickPointX="489" clickPointY="597" imageFileName="tcvi311610971960.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44013.2334606481" objectName="Aliases.browser.pageSelectAngularMaterial.textnode2" objectLeft="418" objectTop="638" objectRight="643" objectBottom="698" clickPointX="461" clickPointY="669" imageFileName="tcvi311851571961.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44013.2334953704" objectName="Aliases.browser.pageSelectAngularMaterial.selectCars" objectLeft="418" objectTop="778" objectRight="643" objectBottom="820" clickPointX="-1" clickPointY="-1" imageFileName="tcvi312118771966.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

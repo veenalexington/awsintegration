@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{51D6482B-3852-42A5-BAA3-93CBC1B8D93A}">
+	<children>
+		<child name="AngularDropDown" key="{C5D31CDC-25FA-4D90-8B4D-8DABB7CAE0B0}" path="AngularDropDown\AngularDropDown.mds" />
+	</children>
+	<testItems key="{0BBEE613-3BAA-4929-9FEC-85CA3BAC428C}">
+		<children>
+			<testItem key="{C5D31CDC-25FA-4D90-8B4D-8DABB7CAE0B0}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{F8EA0442-1D6B-4E2D-A788-5018F7C8DB06}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{3F220B71-F18D-415A-8A92-2E6396429BD9}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="False" />
+	</extender>
+</Root>
